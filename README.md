@@ -1,2 +1,2 @@
-agriinfo
-========
+Agriculture Information Manager
+
