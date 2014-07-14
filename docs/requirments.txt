@@ -46,3 +46,35 @@ Non Functional
 	Scope for adding dairy income/Expense.
 	Scope for adding House hold Expense.
 	Scope for adding Crop expenses.
+	
+Phase 1 
+Attendance Management 
+Phase 2 
+WorkLog and Crop Management 
+Phase 3 
+Yield Management 
+Phase 4
+Finance Management 
+Phase 5
+Fertilizer  Management
+Phase 6
+Reports
+Phase 7 Dairy
+
+Work Screen
+-Employee panel 
+-Option to filter by account/gender
+-Option to filter by query string.
+-Option to Add/Modify/Delete.
+Model 
+-Employee
+	Name
+	displayName
+	phone
+	image
+	gender
+	
+	
+
+Service Required 
+-
